@@ -1,11 +1,4 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 // setup and setowner
 // addfree
 if($textmassage == "/addfree" or $textmassage == "addfree" or $textmassage == "نصب رایگان" or $textmassage == "/start@$usernamebot addfree" or $textmassage == "/addfree@$usernamebot") {
