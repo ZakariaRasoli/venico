@@ -1,12 +1,5 @@
 <?php
 
-/*
-in the name of God
-source of anti spam bot
-by php
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 // fun and for all
 // ping
 if($textmassage=="/ping" or $textmassage=="انلاینی" or $textmassage=="ping"){
