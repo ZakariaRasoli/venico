@@ -1,11 +1,4 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 // msg check
 // lock link
 if($settings["lock"]["link"] == "| فعال | ✅"){
