@@ -1,10 +1,5 @@
 <?php
-/*
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 ob_start();
 error_reporting(0);
 define('API_KEY','579740027:AAGEcgkHXgyN8ZSXLZtFmGLYO7n4glrF1-Btk');
