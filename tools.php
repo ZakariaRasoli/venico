@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 //leave and rem
 if($textmassage == '/leave'  or $textmassage == 'leave'  or $textmassage == 'ترک'){
 if (in_array($from_id,$Dev)){
