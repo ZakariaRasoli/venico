@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God
-source of anti spam bot
-by php
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 // pv
 if($textmassage=="/start" && $tc == "private" or $textmassage=="/panel" && $tc == "private"){
 	jijibot('sendmessage',[
