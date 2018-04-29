@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 // msg check
 // add
 if($settings["information"]["add"] == "| فعال | ✅") {
