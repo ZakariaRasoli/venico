@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 if($data=="lockphoto" && $settings2["lock"]["photo"] == "| فعال | ✅" or $data=="lockvideo" && $settings2["lock"]["video"] =="| فعال | ✅" or $data=="lockgame" && $settings2["lock"]["game"] =="| فعال | ✅" or $data=="locksticker" && $settings2["lock"]["sticker"] =="| فعال | ✅" or $data=="lockvoice" && $settings2["lock"]["voice"] =="| فعال | ✅" or $data=="lockaudio" && $settings2["lock"]["audio"] =="| فعال | ✅"  or $data=="lockcontact" && $settings2["lock"]["contact"] =="| فعال | ✅" or $data=="locklocation" && $settings2["lock"]["location"] =="| فعال | ✅" or $data=="lockdocument" &&  $settings2["lock"]["document"] =="| فعال | ✅" or $data=="lockgif" && $settings2["lock"]["gif"] =="| فعال | ✅" or $data=="lockself" && $settings2["lock"]["video_msg"] =="| فعال | ✅" or $data=="locktext" && $settings2["lock"]["text"] =="| فعال | ✅" ){
 if ($statusq == 'creator' or $statusq == 'administrator' or in_array($fromid,$Dev) ){
 $getlock = array("lockphoto","lockvideo","lockgame","locksticker","lockvoice","lockaudio","lockcontact","locklocation","lockdocument","lockgif","lockself","locktext");
