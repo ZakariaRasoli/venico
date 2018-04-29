@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 // restart settings
 if($textmassage=="/restart settings" or $textmassage=="restart settings" or $textmassage=="ریستارت تنظیمات"){
 if ( $status == 'creator' or $status == 'administrator' or in_array($from_id,$Dev)) {
