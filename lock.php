@@ -1,11 +1,4 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 // lock
 // lock link
 if($textmassage=="/lock link" or $textmassage=="قفل لینک"){
