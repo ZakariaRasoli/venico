@@ -1,11 +1,4 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 // panel admin
 if($textmassage=="/panel admin" or $textmassage=="panel admin" or $textmassage=="پنل مدیریت"){
 if ($tc == "private") {
