@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 if($textmassage == "/channel on" or $textmassage == "channel on" or $textmassage == "قفل کانال روشن"){
 if ($tc == 'group' | $tc == 'supergroup'){  
 if ( $status == 'creator' or $status == 'administrator' or in_array($from_id,$Dev)){
