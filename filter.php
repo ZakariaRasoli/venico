@@ -1,11 +1,4 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
 if($textmassage=="/filterlist" or $textmassage=="filterlist" or $textmassage=="لیست فیلتر"){
 if ( $status == 'creator' or $status == 'administrator' or in_array($from_id,$Dev)) {
 $filter = $settings["filterlist"];
