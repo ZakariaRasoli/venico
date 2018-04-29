@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 // fun and for all
 // time
 if($textmassage=="/time" or $textmassage=="ساعت" or $textmassage=="time"){
