@@ -1,11 +1,5 @@
 <?php
-/*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 // add kon and dell msg
 if($textmassage == "/add on" or $textmassage == "add on" or $textmassage == "دعوت روشن"){
 if ($tc == 'group' | $tc == 'supergroup'){  
