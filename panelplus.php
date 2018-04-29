@@ -1,11 +1,5 @@
  <?php
- /*
-in the name of God 
-source of anti spam bot
-by php 
-v.13
-dev : mohammadrezajafari [@mohammadrezajiji]
-*/
+
 if($data=="panel2"){
 		 if ($statusq == 'creator' or $statusq == 'administrator' or in_array($fromid,$Dev) ){
             jijibot('editmessagetext',[
